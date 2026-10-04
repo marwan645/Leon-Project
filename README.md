@@ -40,9 +40,10 @@
 
 ## Project structure
 -leon/
- - index.html
- - css/
+ - HTML File: index.html
+ - css Files:
             core.css, normalize.css, all.min.css
+ - images/
 
 ## What I learned
 - Turning a PSD design into a real layout
