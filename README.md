@@ -11,7 +11,7 @@
 -<img width="1919" height="543" alt="contact" src="https://github.com/user-attachments/assets/4753d88f-9949-4ae7-b976-650467911a14" />
 
 ## About this project
-- This is a learning project. I built it by converting a free PSD design into code while After finishing it with Elzero Web School (https://www.youtube.com/watch?v=MBq8ZFEIIaQ&list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF), I reviewed my own code, fixed the mistakes I found, and refactored it to be cleaner and more accessible.
+- This is a learning project. I built it by converting a free PSD design into code After finishing it with Elzero Web School (https://www.youtube.com/watch?v=MBq8ZFEIIaQ&list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF), I reviewed my own code, fixed the mistakes I found, and refactored it to be cleaner and more accessible.
 - PSD design credit: https://www.graphberry.com/item/leon-psd-agency-template
 - Icons: [Font Awesome](https://fontawesome.com)
 - Fonts: [Google Fonts](https://fonts.google.com)
